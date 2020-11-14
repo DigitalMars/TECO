@@ -1,2 +1,2 @@
 # TECO
-TECO macros
+TECO macros for the PDP-11
